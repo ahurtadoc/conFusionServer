@@ -140,3 +140,6 @@ dist
 
 
  .idea/
+
+bin/certificate.cert
+bin/private.key
